@@ -18,3 +18,4 @@ int main() {
 	primeFlag == true ? cout << numTest << " is prime\n" : cout << numTest << " is not prime\n" ;
 	return 0;
 }
+// Adding an extra line of commenting for git testing
